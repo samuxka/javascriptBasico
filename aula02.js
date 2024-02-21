@@ -20,4 +20,5 @@ console.log('O tipo do número é: ', typeof meuNumero);
 console.log('O tipo do número é: ', typeof meuNumero);
 console.log('O tipo da minha string é: ', typeof minhaString);
 console.log('O tipo do meu boolean é: ', typeof meuBooleano);
-console.log('O ')
+console.log('O tipo do meu null é: ', typeof meuNull);
+console.log('O tipo do meu undefined é: ', typeof meuUndefined);
